@@ -1,0 +1,2 @@
+Un archivo se abre open()
+para cerrarlo usamos close()
